@@ -1,0 +1,20 @@
+a.contact:link {
+  color: fff;
+  text-decoration: none;
+}
+
+a.contact:visited {
+  color: fff;
+  text-decoration: none;
+}
+
+a.contact:hover {
+  color: 333;
+  background-color: fff;
+  text-decoration: none;
+}
+
+a.contact:active {
+  color: fff;
+  text-decoration: none;
+}
