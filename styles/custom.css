@@ -1,20 +1,20 @@
-a.contact:link {
+#contactinfo a:link {
   color: fff;
   text-decoration: none;
 }
 
-a.contact:visited {
+#contactinfo a:visited {
   color: fff;
   text-decoration: none;
 }
 
-a.contact:hover {
+#contactinfo a:hover {
   color: 333;
   background-color: fff;
   text-decoration: none;
 }
 
-a.contact:active {
+#contactinfo a:active {
   color: fff;
   text-decoration: none;
 }
